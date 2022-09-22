@@ -1,6 +1,6 @@
 # eCommerce App
 
-Github Link: [Live link](https://github.com/MarioArmstrong/eCommApp)
+Github Link: [Github link](https://github.com/MarioArmstrong/eCommApp)
 
 ## Description
 
